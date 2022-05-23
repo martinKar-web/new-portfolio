@@ -19,12 +19,13 @@ const Header = () => (
           style={{
             display: "flex",
             alignItems: "center",
+            justifyContent: "center",
             color: "white",
             marginBottom: "10px",
           }}
         >
           <DiCssdeck size="3rem" />
-          <Span>Portfolio</Span>
+          <Span>Martin</Span>
         </a>
       </Link>
     </Div1>
