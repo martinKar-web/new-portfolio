@@ -20,8 +20,7 @@ const Hero = (props) => (
         building websites for organizations and companies at a
         professional level. My experience with software development is
         primarily JavaScript. I am creative and detail-oriented in
-        designing platforms that are functional and user-friendly. I
-        
+        designing platforms that are functional and user-friendly.
       </SectionText>
       <Button onClick={() => window.location = 'https://github.com/martinKar-web'}>Download Resume</Button>
     </LeftSection>
